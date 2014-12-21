@@ -16,9 +16,13 @@ https://github.com/flibitijibibo/FNA/releases
 Note that when downloading releases from GitHub, you will need to download the following libraries and place them in the lib/ folder:
 
 SDL2#: https://github.com/flibitijibibo/SDL2-CS/
+
 OpenAL#: https://github.com/flibitijibibo/OpenAL-CS/
+
 MojoShader#: https://github.com/flibitijibibo/MojoShader-CS/
+
 Vorbisfile#: https://github.com/flibitijibibo/Vorbisfile-CS/
+
 TheoraPlay#: https://github.com/flibitijibibo/TheoraPlay-CS/
 
 These are all rolling-release libraries, so feel free to download the latest revision, assuming no API changes have been made since that release of FNA.
