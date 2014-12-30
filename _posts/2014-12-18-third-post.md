@@ -10,7 +10,7 @@ Maecenas sed diam eget risus varius blandit sit amet non magna. Donec sed odio d
 
 Nulla vitae elit libero, a pharetra augue. Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Donec ullamcorper nulla non metus auctor fringilla.
 
-{% include image.html url="/assets/rogue-legacy-screenshot.png" caption="Integer posuere erat a ante venenatis dapibus posuere velit aliquet." alt="Rogue Legacy Screenshot" %}
+{% include image.html url="http://walkman100.github.io/fna-xna.github.io/assets/rogue-legacy-screenshot.png" caption="Integer posuere erat a ante venenatis dapibus posuere velit aliquet." alt="Rogue Legacy Screenshot" %}
 
 Sed posuere consectetur est at lobortis. Donec sed odio dui. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
 
