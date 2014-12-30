@@ -8,7 +8,7 @@ permalink: /articles/
   {% for post in site.posts %}
     <li>
       <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a class="post-link" href="http://walkman100.github.io/fna-xna.github.io/{{ post.url }}">{{ post.title }}</a>
       </h2>
 
       {{ post.excerpt }}
